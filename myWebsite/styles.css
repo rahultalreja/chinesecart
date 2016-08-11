@@ -1,0 +1,22 @@
+body {
+	font-family: 'Tangerine', serif;
+	font-size: 48px;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin: 0 auto;
+	background-size:cover;
+}
+
+h1{
+	position: relative;
+}
+
+#header {
+	text-align: center;
+	font-style: calibri;
+	font-weight: 45;
+}
